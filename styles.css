@@ -84,3 +84,10 @@ textarea{
     border-width: 0;
     padding-left: 0.5rem;
 }
+@media (max-width: 800px) 
+{
+    .form{
+        width: 70%;
+    }
+    
+}
